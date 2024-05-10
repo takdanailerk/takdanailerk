@@ -1,16 +1,51 @@
-### Hi there 👋
+# แนะนำตัว (Introduce Myself) 👋
 
-<!--
-**takdanailerk/takdanailerk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Here are some ideas to get you started:
+:thailand: : สวัสดีครับ ผมชื่อนายทักษ์ดนัย ฤกษ์สกุลชัย (เติ้ล) ปัจจุบันผมนักศึกษาจบใหม่จากสาขาวิชาเทคโนโลยีสารสนเทศ คณะวิทยาศาสตร์ มหาวิทยาลัยแม่โจ้ โปรไฟล์นี้มีจุดประสงค์สำหรับผู้ที่ต้องการชมผลงานส่วนตัวและทักษะภาษาโปรแกรมของผม<br />
+:uk: : Hello everyone!, my name is Takdanai Lerksakunchai or you can called me Tle. In the current, I'm a new graduate from Information Technology Division, Faculty of Science, Maejo University. This profile is for people who interested about my work and my programming skills.<br /><br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# ทักษะภาษาโปรแกรม (Programming Languages Skills) :desktop_computer:
+
+<h4 align="left">ภาษาคอมพิวเตอร์ (Computer Languages)</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,c,dart,css,html,java,php&theme=light" />
+  </a>
+</p>
+
+<h4 align="left">เฟรมเวิร์ก (Frameworks)</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,hibernate,laravel,angular,nextjs,react,tailwind,bootstrap,flutter&theme=light" />
+  </a>
+</p>
+
+<h4 align="left">ฐานข้อมูล (Databases)</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=light" />
+  </a>
+</p>
+
+<h4 align="left">เครื่องมือพัฒนาโปรแกรม (IDEs & Tools)</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,androidstudio,postman&theme=light" />
+  </a>
+</p>
+
+<h4 align="left">เครื่องควบคุมการเปลี่ยนแปลง (Version Controls)</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,bitbucket,gitlab&theme=light" />
+  </a>
+</p>
+
+<h4 align="left">อินเทอร์เน็ตในสรรพสิ่ง (Internet of Things)</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino&theme=light" />
+  </a>
+</p>
