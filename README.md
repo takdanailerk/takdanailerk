@@ -18,7 +18,7 @@
 <h4 align="left">เฟรมเวิร์ก (Frameworks)</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,hibernate,laravel,angular,nextjs,react,tailwind,bootstrap,flutter&theme=light" />
+    <img src="https://skillicons.dev/icons?i=spring,hibernate,laravel,angular,nextjs,react,tailwind,bootstrap,flutter,express&theme=light" />
   </a>
 </p>
 
