@@ -25,7 +25,7 @@
 <h4 align="left">ฐานข้อมูล (Databases)</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=light" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=light" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
   </a>
 </p>
 
-<h4 align="left">เครื่องควบคุมการเปลี่ยนแปลง (Version Controls)</h4>
+<h4 align="left">เครื่องมือควบคุมการเปลี่ยนแปลง (Version Controls)</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,bitbucket,gitlab&theme=light" />
