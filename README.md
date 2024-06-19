@@ -11,7 +11,7 @@
 <h4 align="left">ภาษาคอมพิวเตอร์ (Computer Languages)</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,c,dart,css,html,java,php&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ts,js,c,dart,css,html,java,php,go&theme=light" />
   </a>
 </p>
 
