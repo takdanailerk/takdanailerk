@@ -11,14 +11,14 @@
 <h4 align="left">ภาษาคอมพิวเตอร์ (Computer Languages)</h4>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,c,c#,dart,css,html,java,rust,go&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ts,js,c,cs,dart,css,html,java,rust,go&theme=light" />
   </a>
 </p>
 
 <h4 align="left">เฟรมเวิร์ก (Frameworks)</h4>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,hibernate,laravel,angular,nextjs,react,vue,tailwind,bootstrap,flutter,express&theme=light" />
+    <img src="https://skillicons.dev/icons?i=spring,hibernate,laravel,angular,nextjs,react,vue,tailwind,bootstrap,flutter,express,dotnet&theme=light" />
   </a>
 </p>
 
